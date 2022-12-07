@@ -16,3 +16,9 @@ class Dog(Animal):
 
 class Cat(Animal):
     pass
+
+
+class Human(Animal):
+
+    pass
+
